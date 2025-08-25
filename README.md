@@ -45,3 +45,5 @@ Creating this calendar also taught me how to align posts with important dates, f
 The deliverable was presented as a detailed content calendar in Excel/Google Sheets format, which could be directly implemented by the social media team. It served as a roadmap for designing creatives, scheduling posts, and analyzing performance once executed.
 
 Through this task, I gained practical experience in content marketing strategy, audience research, and digital creativity. I also understood how much planning and research goes behind even a single month of content. Overall, this task helped me sharpen my skills in strategic communication, branding, and social media management, which are crucial for my growth in digital marketing.
+
+"OUTPUT":<img width="778" height="550" alt="Image" src="https://github.com/user-attachments/assets/532d4d0e-d7da-4231-94d4-6ad1f1cead4b" />
